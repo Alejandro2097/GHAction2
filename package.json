@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --prod --GHAction2=/AngularApp-Deploy/"
+    "deploy": "ng build --prod --GHAction2=/CI-CD-GH-Deploy/"
   },
   "private": true,
   "dependencies": {
